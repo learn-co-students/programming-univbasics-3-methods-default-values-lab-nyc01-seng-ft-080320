@@ -21,8 +21,7 @@ that has **three** parameters:
 - Two _required_ parameters for vegetables. Ex: `veg1` and `veg2`
 - And an _optional_ parameter for `protein` with a default value of `tofu`
 
-This method will serve a couple of purposes - we want to output a two
-messages _and_ return one of the messages as a string.
+This method will serve a couple of purposes - we want to output two messages _and_ return one of the messages as a string.
 
 The first message will always be the same:
 
